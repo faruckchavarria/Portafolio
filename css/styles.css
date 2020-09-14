@@ -95,3 +95,14 @@ th, td {
 {
     background-color: plum;
 }
+#recomendacion
+{
+    display: block;
+    margin: auto; 
+}
+p
+{
+    
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+}
